@@ -13,6 +13,7 @@ A set of SVG maps that can be installed via [npm](https://www.npmjs.com) or [yar
 * 🇨🇻 [Cape Verde](packages/cape-verde)
 * 🇨🇳 [China](packages/china)
 * 🇨🇴 [Colombia](packages/colombia)
+* 🇩🇰 [Denmark, Regions](packages/denmark.regions)
 * 🇫🇷 [France, Departments](packages/france.departments)
 * 🇫🇷 [France, Regions](packages/france.regions)
 * 🇩🇪 [Germany](packages/germany)
